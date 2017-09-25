@@ -31,6 +31,12 @@ public:
 	}
 }m;
 
+class test {
+public:
+test() {
+}
+};
+
 int main() {
 	cout << "in main" << endl;
 	B b(10);
