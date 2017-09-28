@@ -41,6 +41,8 @@ int main() {
 	cout << "in main" << endl;
 	B b(10);
 	b.print();
+	cout << "ending";
 	system("pause");
+
 	return 1;
 }
