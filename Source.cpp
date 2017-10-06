@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/* sample write*/
 class A {
 protected:
 	int x;
