@@ -37,6 +37,10 @@ test() {
 }
 };
 
+// Adding new lines
+
+// comments are important
+
 int main() {
 	cout << "in main" << endl;
 	B b(10);
